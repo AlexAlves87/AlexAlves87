@@ -24,7 +24,7 @@ I do not sell AI as magic. I use it as leverage. My work is public, reviewable, 
 | Area | Proof |
 |---|---|
 | Open-source production work | Security-sensitive PRs in [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) |
-| Evidence preservation | This portfolio is [archived, hashed, and timestamped](preserved-Portafolio-2026-06-05/preserved-Portafolio-2026-06-05.ots) with OpenTimestamps |
+| Evidence preservation | Built [OTSkit](https://github.com/OTSkit) — OpenTimestamps toolkit with MCP integration for timestamping and preserving digital artifacts on Bitcoin |
 | Local-first privacy | [ContextSafe](https://github.com/AlexAlves87/ContextSafe) — local anonymization for legal/personal documents |
 | Practical public contributions | [DeclaRenta](https://github.com/GeiserX/DeclaRenta) tax automation |
 
