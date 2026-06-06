@@ -69,11 +69,6 @@ I do not sell AI as magic. I use it as leverage. My work is public, reviewable, 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexAlves87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlves87&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexAlves87&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
