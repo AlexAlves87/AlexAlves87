@@ -2,44 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,40:1F6FEB,100:7C3AED&text=AlexAlves87&fontColor=FFFFFF&fontSize=48&fontAlignY=40" alt="AlexAlves87" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+%2F+.NET+%2F+WinUI+3+desktop+security;TypeScript+%2F+React+%2F+Python+tooling;OpenTimestamps+%2F+MCP+%2F+evidence+preservation;I+build+what+can+be+inspected" alt="Typing SVG" />
-  </a>
-</p>
+I build tools for timestamping files, anonymizing documents locally, and coordinating airport pickups. I also contribute to the command approval system in OpenClaw’s Windows node.
 
-<p align="center">
-  <a href="https://github.com/OTSkit"><img src="https://img.shields.io/badge/OTSkit-OpenTimestamps%20toolkit-0D1117?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="OTSkit" /></a>
-  <a href="https://github.com/AlexAlves87/ContextSafe"><img src="https://img.shields.io/badge/ContextSafe-local%20privacy-1F6FEB?style=for-the-badge&logo=shield&logoColor=white" alt="ContextSafe" /></a>
-  <a href="https://github.com/openclaw/openclaw-windows-node"><img src="https://img.shields.io/badge/OpenClaw-Windows%20security-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="OpenClaw" /></a>
-  <a href="https://contextsafe.es"><img src="https://img.shields.io/badge/contextsafe.es-live-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="contextsafe.es" /></a>
-</p>
+## Projects I build
 
----
+**[OTSkit](https://github.com/OTSkit)** · A TypeScript toolkit for creating and verifying OpenTimestamps proofs. You can use it to show that a particular version of a file existed by a given time. [Core library](https://github.com/OTSkit/OTSkit-core) · [MCP integration](https://github.com/OTSkit/OTSkit-MCP)
 
-## Signal
+[![OTSkit core repository statistics](https://github-readme-stats.shion.dev/api/pin/?username=OTSkit&repo=OTSkit-core&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/OTSkit/OTSkit-core)
 
-I do not sell AI as magic. I use it as leverage. My work is public, reviewable, and preserved.
+**[ContextSafe](https://github.com/AlexAlves87/ContextSafe)** · A local-first tool for anonymizing legal and personal documents. Built with Python, FastAPI, React, spaCy and Presidio. [Project website](https://contextsafe.es)
 
-| Area | Proof |
-|---|---|
-| Open-source production work | Security-sensitive PRs in [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) |
-| Evidence preservation | Built [OTSkit](https://github.com/OTSkit) — OpenTimestamps toolkit with MCP integration for timestamping and preserving digital artifacts on Bitcoin |
-| Local-first privacy | [ContextSafe](https://github.com/AlexAlves87/ContextSafe) — local anonymization for legal/personal documents |
-| Practical public contributions | [DeclaRenta](https://github.com/GeiserX/DeclaRenta) tax automation |
+**Trip’n’Time** · A flight-tracking app for airport transfer drivers. Drivers can follow a passenger’s flight and receive updates ahead of pickup.
 
----
+**Transfer dispatch** · I’m building a dispatch system on Frappe and ERPNext to bring bookings, vehicle positions and routes into one view.
 
-## Featured Work
+## Open-source contributions
 
-| Project | What it proves | Stack | Links |
-|---|---|---|---|
-| **OpenClaw** | C#/.NET desktop security under public review | C#, .NET, WinUI 3, WebView2 | [upstream](https://github.com/openclaw/openclaw-windows-node) / [fork](https://github.com/AlexAlves87/openclaw-windows-node) |
-| **OTSkit** | OpenTimestamps toolkit + MCP integration + evidence preservation | TypeScript, OpenTimestamps, MCP, SHA-256 | [org](https://github.com/OTSkit) / [core](https://github.com/OTSkit/OTSkit-core) / [MCP](https://github.com/OTSkit/OTSkit-MCP) |
-| **ContextSafe** | Local-first privacy tooling with real legal-tech use case | Python, FastAPI, React, spaCy, Presidio | [repo](https://github.com/AlexAlves87/ContextSafe) / [site](https://contextsafe.es) |
-| **DeclaRenta** | Focused TS/React contributions with fiscal impact | TypeScript, React | [repo](https://github.com/GeiserX/DeclaRenta) |
+**[OpenClaw Windows node](https://github.com/openclaw/openclaw-windows-node)** · I contributed to Exec Approvals V2, the system that decides when a command needs a person’s approval before it can run. Three merged changes show how the work progressed.
 
----
+- [Connect the approval decision to command execution · #985](https://github.com/openclaw/openclaw-windows-node/pull/985)
+- [Prevent permanent approval rules for shells and command hosts · #1039](https://github.com/openclaw/openclaw-windows-node/pull/1039)
+- [Switch the Windows node to the V2 approval flow · #1051](https://github.com/openclaw/openclaw-windows-node/pull/1051)
+
+**[DeclaRenta](https://github.com/GeiserX/DeclaRenta)** · TypeScript and React contributions to an open-source Spanish tax application.
 
 ## Stack
 
@@ -64,58 +49,8 @@ I do not sell AI as magic. I use it as leverage. My work is public, reviewable, 
 ![OpenTimestamps](https://img.shields.io/badge/OpenTimestamps-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-1F6FEB?style=flat-square&logo=github&logoColor=white)
 
----
+## GitHub activity
 
-## GitHub Stats
+[![AlexAlves87’s public GitHub statistics](https://github-readme-stats.shion.dev/api?username=AlexAlves87&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/pulls?q=is%3Apr+author%3AAlexAlves87+is%3Amerged)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexAlves87&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!--
-  Uncomment the block below after setting up the GitHub Action for the snake animation.
-  See: https://github.com/Platane/snk
-
-  ## Contribution Graph
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexAlves87/AlexAlves87/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexAlves87/AlexAlves87/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlexAlves87/AlexAlves87/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </p>
--->
-
----
-
-## How I Work With AI
-
-My role is to:
-
-- Define the problem and threat model
-- Split large work into reviewable slices
-- Check generated code against edge cases
-- Reject output that does not survive scrutiny
-- Respond to review with concrete fixes
-- Leave behind artifacts that can be inspected later
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/AlexAlves87"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://contextsafe.es"><img src="https://img.shields.io/badge/Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:catabego35@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <sub>Focused on verifiable work. No inflated project list, no dead SaaS claims, no unverifiable noise.</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexAlves87&color=1F6FEB&style=flat-square" alt="Profile views" />
-</p>
+[Browse my merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AAlexAlves87+is%3Amerged) · [Get in touch](mailto:catabego35@gmail.com)
